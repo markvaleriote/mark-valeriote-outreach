@@ -43,6 +43,7 @@ header {
     background-position:center;
     background-size:cover;
     background-repeat:no-repeat;
+    
 }
 
 nav {
@@ -78,4 +79,14 @@ nav li {
     display:inline-table;
     padding:0 5px;
     
+}
+.carousel-inner img 
+
+.carousel {
+    border-radius: 55px 55px 55px 55px;
+    height: 500px;
+    margin-bottom: 60px;
+    margin-top: 40px;
+    margin-left: 200px;
+    margin-right: 200px;
 }
